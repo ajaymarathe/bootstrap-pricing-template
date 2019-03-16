@@ -12,7 +12,8 @@ Bootcatch is an open source library of free Bootstrap templates and themes. All 
 After downloading, you can do whatever you want to do, like you can do changes in CSS and HTML files and make awesome templates as you want.
 hope this will help you.
 
-## Clone the Repository - ` git clone https://github.com/ajaymarathe/bootstrap-pricing-template.git  `
+## Clone the Repository - 
+` git clone https://github.com/ajaymarathe/bootstrap-pricing-template.git  `
 
 ## Copyright and License
 
