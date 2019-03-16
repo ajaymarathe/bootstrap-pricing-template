@@ -1,0 +1,26 @@
+@import url(https://fonts.googleapis.com/css?family=Poppins);
+body {
+  font-family: "Poppins", sans-serif;
+}
+.intro-section {
+  padding-top: 60px;
+  padding-bottom: 30px;
+}
+.intro-section h1,p {
+  text-align: center;
+}
+
+.pricing-features p {
+  margin-bottom: 5px;
+}
+
+.pricing-features {
+  margin-bottom: 1.5rem !important;
+}
+
+.footer-section {
+  margin-top: 3.5rem !important;
+  padding-top: 3.5rem !important;
+  padding-bottom: 3.5rem !important;
+}
+
