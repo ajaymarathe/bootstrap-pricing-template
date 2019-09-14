@@ -1,14 +1,14 @@
 # bootstrap-pricing-template
 Bootstrap Pricing Template is a fully responsive template for Bootstrap lover's, based on bootstrap - created by Bootcatch team..
 
-[![bootcatch pricing template](http://preview.bootcatch.com/bootstrap-pricing-template/img/pricing-theme.png)](http://preview.bootcatch.com/bootstrap-pricing-template/)
+[![bootcatch pricing template](https://raw.githubusercontent.com/ajaymarathe/bootstrap-pricing-template/master/img/pricing-theme.png)](https://ajaymarathe.github.io/bootstrap-pricing-template/)
 
 
 ## About
 
 Bootcatch is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Bootcatch are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
 
-* http://preview.bootcatch.com/bootstrap-pricing-template/
+* https://ajaymarathe.github.io/bootstrap-pricing-template/
 * http://bootcatch.com
 
 ## Usage
